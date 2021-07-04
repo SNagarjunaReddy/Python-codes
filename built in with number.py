@@ -1,0 +1,14 @@
+i=-100.999
+j=10
+k=99
+print(abs(i))
+print(int(i))
+print(max(i,j,k))
+print(min(i,j,k))
+print(round(i,2))
+print(hex(j))
+print(oct(j))
+print(str(j))
+print(type(i))
+print(type(j))
+print(type(str(j)))

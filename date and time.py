@@ -1,0 +1,12 @@
+import datetime as dt
+today= dt.date.today()
+last_of_teens=dt.date(2019,12,31)
+print(today)
+print(last_of_teens)
+ok=dt.date(2020,5,21)
+print(last_of_teens.year)
+print(last_of_teens.day)
+print(last_of_teens.month)
+print(ok.year)
+print(ok.day)
+print(ok.month)
